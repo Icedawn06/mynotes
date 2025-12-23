@@ -1,0 +1,2 @@
+# mynotes
+self-study notes
